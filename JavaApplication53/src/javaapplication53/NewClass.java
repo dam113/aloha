@@ -10,5 +10,6 @@ package javaapplication53;
  * @author dam113
  */
 public class NewClass {
+    private int aloh=5;
     
 }
